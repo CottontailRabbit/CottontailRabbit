@@ -15,16 +15,14 @@
 ## 🚀 Languages & Tools
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/ros/ros.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
+
 
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CottontailRabbit&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Hongcheol&layout=compact)
 
-![CottontailRabbit's GitHub stats](https://github-readme-stats.vercel.app/api?username=CottontailRabbit&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=CottontailRabbit&theme=tokyonight&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CottontailRabbit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -44,8 +42,8 @@
 ---
 
 ## Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/본인ID)](https://linkedin.com/in/본인ID)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:본인이메일)](mailto:본인이메일)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hongcheol@kakao.com)](mailto:hongcheol@kakao.com)
 
 ---
 
