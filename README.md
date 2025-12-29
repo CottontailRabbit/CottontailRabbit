@@ -140,12 +140,10 @@ approach: Cross-domain expertise in mechanical, electronics, and software engine
 </details>
 
 <details open>
-<summary><b>🔧 CAD & Simulation</b></summary>
+<summary><b>🔧 CAD & Design</b></summary>
 <br/>
 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-F88909?style=flat-square)
-![MoveIt 2](https://img.shields.io/badge/MoveIt%202-EC4D37?style=flat-square)
-![Gazebo](https://img.shields.io/badge/Gazebo-9E9E9E?style=flat-square)
 
 </details>
 
@@ -166,7 +164,8 @@ approach: Cross-domain expertise in mechanical, electronics, and software engine
 
 </div>
 
----
+
+<br/>
 
 <div align="center">
 
