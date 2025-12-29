@@ -20,11 +20,12 @@
 
 ### 🎯 About Me
 
-```typescript
-const hongcheol = {
+```javascript
+const roboticsEngineer = {
+    name: "Hongcheol Kim",
     role: "Robotics Engineer",
-    code: ["C++", "Python", "Rust", "MATLAB"],
-    technologies: {
+    languages: ["C++", "Python", "Rust", "MATLAB"],
+    specialization: {
         robotics: ["ROS 2", "MoveIt 2", "ros2_control", "Gazebo", "Isaac Sim"],
         hardware: ["Modbus TCP/RTU", "UR RTDE", "Serial Communication"],
         tools: ["Docker", "CMake", "Git", "GitLab CI/CD"],
@@ -41,7 +42,8 @@ const hongcheol = {
 
 <!-- Languages -->
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,rust,matlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,rust&theme=dark" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
 <!-- Robotics & Frameworks -->
