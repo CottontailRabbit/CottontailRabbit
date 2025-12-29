@@ -185,28 +185,28 @@ mindmap
 <table>
   <tr>
     <td align="center" width="20%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="48" height="48" alt="Robot"/>
-      <br><b>Motion Control</b>
+      <h3>🔧</h3>
+      <b>Motion Control</b>
       <br><sub>Grippers • Servos • Actuators</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="48" height="48" alt="Integration"/>
-      <br><b>ROS 2 Development</b>
+      <h3>🤖</h3>
+      <b>ROS 2 Development</b>
       <br><sub>ros2_control • MoveIt 2</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" width="48" height="48" alt="Code"/>
-      <br><b>System Programming</b>
+      <h3>💻</h3>
+      <b>System Programming</b>
       <br><sub>C++ • Rust • Python</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="48" height="48" alt="Embedded"/>
-      <br><b>Embedded Systems</b>
+      <h3>⚡</h3>
+      <b>Embedded Systems</b>
       <br><sub>Serial • Modbus • RTDE</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103596.png" width="48" height="48" alt="Automation"/>
-      <br><b>Automation</b>
+      <h3>⚙️</h3>
+      <b>Automation</b>
       <br><sub>Industrial • DevOps • CI/CD</sub>
     </td>
   </tr>
